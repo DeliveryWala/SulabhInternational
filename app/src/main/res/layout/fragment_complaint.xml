@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context="com.example.arif.sulabhinternational.Fragments.Complaint">
+
+    <ImageView
+        android:id="@+id/complain_image"
+        android:layout_width="150dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="30dp"
+        android:padding="10dp" />
+
+
+    <Button
+        android:id="@+id/camera"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/complain_image"
+        android:layout_marginBottom="72dp"
+        android:layout_toEndOf="@+id/complain_image"
+        android:layout_toRightOf="@+id/complain_image"
+        android:background="@color/colorPrimary"
+        android:padding="10dp"
+        android:text="Take Photo" />
+
+    <Button
+        android:id="@+id/location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/complain_image"
+        android:layout_marginEnd="39dp"
+        android:layout_marginRight="39dp"
+        android:layout_marginTop="105dp"
+        android:text="Button" />
+
+
+</RelativeLayout>

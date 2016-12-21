@@ -1,0 +1,953 @@
+<resources>
+    <string name="app_name">SulabhInternational</string>
+
+    <!-- TODO: String... -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_open">Open</string>
+    <string name="founder">FOUNDER</string>
+    <string name="social_ini">Socail Initiatives taken by Sulabh:</string>
+    <string name="social_content">-Liberation of Scavengers\n-Vocational of training programme\n
+        -Education ofchildren of scavengers\n-Public Awareness\n-Nai Disha</string>
+    <string name="princess">Meet New Princess of Alwar</string>
+    <string name="home_first">Sociologist, social activist, and Founder of
+        Sulabh Sanitation and Social Reform Movement,
+        Dr. Pathak believes the toilet is a tool for social change.
+        He has received a great deal of national and international
+        recognition for his work, including the Stockholm Water Prize in 2009,
+        and he is considered a pioneer for social reform.</string>
+
+    <string name="news_and_events">News and Events</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="meet_sulabh">Meet Sulabh</string>
+    <string name="detail">Sulabh International Social Service Organisation, a non-profit voluntary social
+        organisation founded in 1970 by Dr. Bindeshwar Pathak, is dedicated to Gandhian ideology of
+        emancipation of scavengers.</string>
+    <string name="stay_touch">Stay In Touch</string>
+    <string name="sulabh_org">Sulabh International Social Service Organisation</string>
+    <string name="line1">Sulabh Gram, Mahavir Enclave,</string>
+    <string name="line2">Palam-Dabri Road,</string>
+    <string name="line3">New Delhi- 110045</string>
+    <string name="line4"><![CDATA[Phone: +91.11.25031518 & 25031519, 25057748]]></string>
+    <string name="line5">Email: sulabhinfo@gmail.com</string>
+    <string name="awards_and_honor">Awards and Honor</string>
+    <string name="waste">Waste Water Treatment Plant</string>
+    <string name="water_detail">The organization Sulabh International has successfully demonstrated treatment of
+        waste water based on usage of duckweed in rural and urban areas with direct economic returns</string>
+    <string name="manual_scavenging">MANUAL SCAVENGING</string>
+    <string name="what">What is manual scavenging?</string>
+
+    <string name="what_ms_ans">Scavenging is the practice of manual cleaning of human excreta from service/ dry
+        latrines. The scavengers crawl into the dry latrines and collect the human excreta with their bare hands,
+        carry it as head-load in a container to dispose it off.
+
+A caste based and hereditary profession, which is handed down, as a legacy from one generation to the next; “manual
+        scavenging” has been an age-old routine for this community, which is untouched by technological advancement
+        in sanitary practices. Not only does the prevalence of this culture seem antediluvian, but what is worse is
+        the fact that those born in this community are considered agents of pollution due to their background of social
+        hierarchy, based on birth. They are the most oppressed and suppressed class of Indian society – hated, ostracized,
+        vilified and avoided by all other castes and classes. The appalling hardship, humiliation and exploitation they
+        face, have no parallel in human history. The practice started in the Pauranic period continued in the Buddhist,
+        Mauryan, Mughal and British periods.
+Scavengers come in direct contact with human excreta and his/her hands are completely soiled. In a congested locality,
+        the scavenger has to crawl through a narrow passage, pushing the basket with one hand, resting his body weight
+        on the other to make his way up to the latrine chamber through a narrow opening.  In the latrine, where the seat
+        is deep inside, he/she has to stretch his hand to the fullest and thrust his/her head into the hole to clean the
+        toilet. The scavenger has to bend forward into the narrow space to clean excreta from the toilet antechambers. In
+        latrines, which have no receptacles, human excreta drops directly on the floor, which, with passage of time, wears
+        the brickwork that becomes patchy and uneven. In most cases, the sidewalls are also without cement plaster; with
+        the result, the excreta get stuck up everywhere on the sidewalls and also on the floor. The scavenger, while cleaning,
+        has to scratch the floor and sidewalls to do maximum cleaning.  It is a common sight to see scavengers, mostly women,
+        moving with excreta on the head, stored in bamboo-baskets, or in leaking drums, with the muck trickling down over face
+        and body. Passers-by avoid such persons. If a scavenger comes in close proximity, he or she is showered with a hail
+        of abuse. In many places, latrines are so constructed that the users do not even see their own excreta. They simply
+        squat, perform, and go away without even caring to know who cleans their toilets. No human degradation could be more
+        cruel and inhuman than the one suffered by scavengers.
+
+</string>
+    <string name="cleaning_of_ghats">CLEANING OF GHATS</string>
+    <string name="clean_text">Photo essay | Bringing life back to the ‘ghats’</string>
+
+
+    <!-- TODO:  NEWS HEADINGS -->
+
+    <string-array name="news_heading">
+
+        <item>“SULABH TOWARDS VILLAGES” CAMPAIGN LAUNCHED IN JAUNPUR</item>
+        <item>Sulabh hands over 5 toilets to village folk in Jaunpur – The Times of India</item>
+        <item>Uttar Pradesh: NGO Sulabh launches rural sanitation campaign</item>
+        <item>गांधी के बाद मोदी ने दी शौचालय को तरजीह : ¨वदेश्वर</item>
+
+    </string-array>
+
+    <!-- TODO: NEWS HEADING DETAIL -->
+    <string-array name="news_detail">
+
+        <item>Posted December 5th, 2016 by Sulabh Admin and filed under In the Press, India,
+            Press Releases, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted December 4th, 2016 by Sulabh Admin and filed under In the Press, India,
+            Press Releases, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted December 4th, 2016 by Sulabh Admin and filed under In the Press, India,
+            Press Releases, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted December 4th, 2016 by Sulabh Admin and filed under Articles, In the Press, India,
+            Press Releases, Sulabh News, Uttar Pradesh.</item>
+
+    </string-array>
+
+    <!-- TODO: NEWS  -->
+    <string-array name="news">
+
+        <item>
+            Taking a major step forward towards rural sanitation, a campaign was launched to provide free
+            toilets to villages in Uttar Pradesh. The beginning was made in Ithara village in Jaunpur where
+            a special campaign “Sulabh towards villages” was launched.
+
+The campaign was launched by the Brand Ambassador of “Rail Swachch Mission” and Sulabh sanitation movement
+            Dr. Bindeshwar Pathak when he handed over five toilets to poor families in Ithara village.
+
+He urged villagers to support the ongoing ‘Clean India Campaign’ to make India open defecation free by 2019.
+            “Big companies and corporate houses can provide assistance for toilet construction to show their
+            love for their motherland,” Dr Pathak said.
+
+He said that nearly 12 crore toilets are required to be built by 2019 to realize the dream of Prime Minister
+            Mr Narendra Modi. “This is a big task, but together we can do it and all Indians can play a
+            pivotal role. This is a unique opportunity for Corporate houses and business groups to show their
+            love for the country,” he said.
+
+Dr. Pathak further said that there are nearly two crore NRIs and if each of them contributes to building six
+            toilets over a span of three years, then this target can easily be met.
+
+An individual toilet costs approximately Rs 30,000 and six toilets will cost a total of approximately Rs. 2 lakh,
+            which can be given over a period of three years.
+
+India has 675 districts, 6,849 blocks, 2.51 lakh panchayats and 6.46 lakh villages.
+
+If all NRIs come forward and contribute to make India a clean and better place, this beautiful dream will become a
+            reality, Dr. Pathak said.
+
+He requested people from rural areas to join hands to make India clean and open defecation-free and thus pay a
+            befitting tribute to Mahatma Gandhi on his 150th birth anniversary on October 2.
+
+Sulabh, which engages over 50,000 people, has so far constructed nearly 10.5 million household toilets and 8,500
+            public toilets used by nearly 15 million people daily across the country.
+        </item>
+
+        <item>LUCKNOW: Taking a major step forward towards rural sanitation, founder of Sulabh sanitation movement
+            Bindeshwar Pathak on Sunday launched an intensive campaign to ensure toilet for every household in the
+            country by 2019.
+
+Unveiling the special campaign “Sulabh towards villages’, Pathak handed over five toilets to poor families in Ithara
+            village in Jaunpur district.
+
+He said, “Sulabh has launched special campaign for rural India and the special drive will continue across the country.”
+
+He urged villagers to support the ongoing ‘Clean India Campaign’ to make India open defecation free by 2019. “Nearly
+            12 crore toilets are required to be built by 2019 to realise the dream of Prime Minister Narendra Modi.
+            This is a big task, but together we can do it and all Indians can play a pivotal role,” he said.
+    </item>
+        <item>Taking a major step towards rural sanitation, founder of Sulabh sanitation movement Bindeshwar Pathak
+            on Sunday launched an intensive campaign to ensure toilet for every household in the country by 2019.
+            Launching the special campaign ‘Sulabh towards villages’, Pathak, who is also Brand Ambassador of
+            ‘Rail Swachch Mission’ dedicated five toilets to poor families in Ithara village in Jaunpur district.
+
+He said Sulabh has launched special campaign for Rural India and the special drive will continue across the country.
+
+He urged villagers to support the ongoing Clean India Campaign to make India Open Defecation Free by 2019.
+
+Pathak said big companies and corporate houses can provide assistance for toilet construction to show their love
+            for the motherland.
+
+He said nearly 12 crore toilets are required to be built by 2019.</item>
+        <item>बिना शौचालय को मिल जाता है निर्मल गांव का दर्जा : सुरेंद्र प्रसाद
+
+स्वच्छ भारत अभियान के तहत इटहरा में शौचालयों का हुआ लोकार्पण
+
+जौनपुर: सुलभ इंटरनेशनल सोशल सर्विस आर्गनाइजेशन के चेयरमैन पद्मभूषण डा.¨वदेश्वर पाठक ने कहा कि राष्ट्रपिता महात्मा गांधी के बाद प्रधानमंत्री नरेंद्र मोदी
+            ने शौचालय को तरजीह दी है। उनका सपना है कि 2019 तक हर घर में शौचालय हो। यह सपना हमें पूरा कना है। हर घर में शौचालय बने,
+            इसके लिए हाथ बंटाना है। खुले में शौच करने से 50 तरह की बीमारी होती है।
+
+वे डोभी ब्लाक के इटहरा गांव में निर्मित वैयक्तिक शौचालयों का लोकार्पण के बाद आयोजित समारोह को बतौर मुख्य अतिथि संबोधित कर रहे थे। उन्होंने कहा कि
+            सरकार शौचालय के नाम पर 12 हजार रुपये देती है। इतने में अच्छा शौचालय बनना मुश्किल हैं। हमें अपने पास से भी सहयोग कर बेहतर शौचालय
+            बनवाना चाहिए। व्यवस्था की खिल्ली उड़ाते हुए कहा कि किसी भी गांव को निर्मल गांव घोषित कर सिर्फ पुरस्कार बंट रहा है, शौचालय है ही नहीं। विद्यालय
+            में शौचालय नहीं होने से लड़कियां पढ़ने नहीं जाती थीं। अब शौचालय बन जाने से स्कूल जाने लगी हैं। यह बालिका शिक्षा में सहायक साबित हुआ है। हमने
+            देश भर में लोगों को जल, कुआं, चापाकल, बो¨रग की स्वच्छता, स्वास्थ्य संबंधी रोकथाम एव उपचार, मोबाइल, लैपटाप, बाइक, साइकिल की मरम्मत,
+            सौर, जैव, पारंपरिक ऊर्जा, पेट्रोमैक्स, बीज, खाद एवं पौधों का उपयोग करने के लिए जागरूक किया।
+
+मैंने 1968 से इस अभियान की शुरूआत की। आज देश में साढ़े 8 हजार सार्वजनिक व 20 हजार स्कूलों में सुलभ शौचालय बनाए गए हैं। इसका लाभ 2 करोड़ लोगों को मिल रहा है।
+
+विशिष्ट अतिथि गांव के निवासी वरिष्ठ पत्रकार सुरेंद्र प्रसाद ¨सह ने कहा कि गांव की हालत किसी से छिपी नहीं है। मेरा गांव सरकारी कागज में निर्मल गांव दर्ज है जबकि हकीकत में
+            एक-दो घरों को छोड़ किसी के पास शौचालय नहीं। पेयजल की हालत तो और बदतर है। बीमारियों की वजह सिर्फ गंदगी है। इससे पूर्व डा.पाठक ने दीप प्रज्वलित कर
+            कार्यक्रम का शुभारंभ किया। तत्पश्चात नवनिर्मित शौचालयों का लोकार्पण हुआ। गांव के बुजुर्ग जत्तन ¨सह ने शाल भेंट कर उनको गांव का अभिभावक बनाया। मंच पर ग्राम
+            प्रधान अर¨वद ¨सह, ब्लाक प्रमुख शंकर यादव, पारस ¨सह, अखिलेश ¨सह भी मौजूद रहे। समारोह में जिला पंचायत सदस्य वरूण ¨सह, र¨वद्र ¨सह, डा.हर्ष वर्धन
+            ¨सह, रामप्रकाश ¨सह, जितेंद्र बहादुर ¨सह, कपिल देव ¨सह, हरिनाम ¨सह, अरूण ¨सह, तहसीलदार ¨सह, मोती वर्मा आदि उपस्थित रहे। संचालन विनीता जौहरी
+            ने किया।
+
+मुख्यमंत्री को सराहा
+
+कार्यक्रम में ही डा.विदेंश्वर पाठक ने मुख्यमंत्री अखिलेश यादव की जमकर सरहाना की। उनके कामकाज को बेहतर बताते हुए कहा कि राजनीति में इतना संस्कारी व मर्यादित व्यक्ति
+            कम ही मिलते हैं। आज नहीं तो कल वे प्रधानमंत्री बनेंगे</item>
+    </string-array>
+
+
+    <!-- TODO: AWARD NO -->
+    <string-array name="award_no">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+
+        <item>20.</item>
+        <item>21.</item>
+
+        <item>22.</item>
+        <item>23.</item>
+
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+
+        <item>30.</item>
+        <item>31.</item>
+        <item>32.</item>
+        <item>33.</item>
+
+        <item>34.</item>
+        <item>35.</item>
+        <item>36.</item>
+
+        <item>37.</item>
+        <item>38.</item>
+        <item>39.</item>
+        <item>40.</item>
+
+        <item>41.</item>
+        <item>42.</item>
+
+        <item>43.</item>
+        <item>44.</item>
+        <item>45.</item>
+
+        <item>46.</item>
+        <item>47.</item>
+        <item>48.</item>
+        <item>49.</item>
+        <item>50.</item>
+        <item>51.</item>
+        <item>52.</item>
+        <item>53.</item>
+        <item>54.</item>
+        <item>55.</item>
+        <item>56.</item>
+        <item>57.</item>
+        <item>58.</item>
+        <item>59.</item>
+        <item>60.</item>
+        <item>61.</item>
+        <item>62.</item>
+        <item>63.</item>
+        <item>64.</item>
+        <item>65.</item>
+
+        <item>66.</item>
+        <item>67.</item>
+        <item>68.</item>
+        <item>69.</item>
+    </string-array>
+
+
+    <!-- TODO: AWARD DATE  -->
+    <string-array name="award_date">
+        <item>April 14, 2016</item>
+        <item>12 April 2016</item>
+        <item>8th April, 2016</item>
+
+        <item>2015</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2015</item>
+        <item>2015</item>
+
+        <item>2014</item>
+        <item>2014</item>
+        <item>2014</item>
+        <item>2014</item>
+
+        <item>2013</item>
+        <item>2013</item>
+        <item>2013</item>
+        <item>2013</item>
+
+        <item>2011</item>
+        <item>2011</item>
+
+        <item>2010</item>
+        <item>2010</item>
+
+        <item>2009</item>
+        <item>2009</item>
+        <item>2009</item>
+        <item>2009</item>
+        <item>2009</item>
+        <item>2009</item>
+
+        <item>2008</item>
+        <item>2008</item>
+        <item>2008</item>
+        <item>2008</item>
+
+        <item>2007</item>
+        <item>2007</item>
+        <item>2007</item>
+
+        <item>2006</item>
+        <item>2006</item>
+        <item>2006</item>
+        <item>2006</item>
+
+        <item>2005</item>
+        <item>2005</item>
+
+        <item>2003</item>
+        <item>2003</item>
+        <item>2003</item>
+
+        <item>2000</item>
+        <item>1999</item>
+        <item>1997</item>
+        <item>1997</item>
+        <item>1997</item>
+        <item>1996</item>
+        <item>1995</item>
+        <item>1995</item>
+        <item>1995</item>
+        <item>1994</item>
+        <item>1994</item>
+        <item>1993</item>
+        <item>1993</item>
+        <item>1992</item>
+        <item>1992</item>
+        <item>1992</item>
+        <item>1992</item>
+        <item>1992</item>
+        <item>1991</item>
+        <item>1991</item>
+
+        <item>1990-91</item>
+        <item>1990</item>
+        <item>1990</item>
+        <item>1984</item>
+    </string-array>
+
+
+    <!-- TODO: AWARDS -->
+    <string-array name="awards">
+        <item>Mayor of New York City, Mr Bill De Blasio, proclaimed April 14, 2016 as “DR BINDESHWAR PATHAK DAY”
+            in the City of New York.</item>
+        <item>2016 Humanitarian Award of the New York Global Leaders Dialogue , New York</item>
+        <item>“Clean and Green India 2016- Waste-Management Leader Award -”</item>
+        <item>Goyal Peace Prize by Kurukshetra University at Kurukshetra, Haryana</item>
+        <item>Amity Lifetime Achievement Award by Amity University at Amity University Campus, Noida</item>
+        <item>Lord Baden Powell National Award at Galib Auditorium, New Delhi</item>
+        <item>Sardar Patel Award-2014 by Sardar Vallabhbhai Patel Foundation at Kasturba Gandhi Marg, New Delhi</item>
+        <item>Lifetime Achievement Award for Sanitation for All: Toilet First by India CSR Group at PHD House, New Delhi</item>
+        <item>Vivekanand Seva Samman Award by Shree Burrabazar Kumarsabha Pustakalaya at Kolkata</item>
+        <item>Power Thinkers Award for services to humanity by Personality Plus International at Raipur, Chhattisgarh</item>
+        <item>Lifetime Achievement Award for contribution in the field of Sanitation by Lucknow Book Fair at Lucknow, Uttar Pradesh
+        </item>
+        <item>Mother Teresa Memorial Award by Indian Development Foundation (IDF) at Chennai</item>
+        <item>The ‘NGO Leadership and Excellence Award’ by the World CSR Congress at Taj Lands End Hotel, Mumbai</item>
+        <item>The International Banga Moni Award by the Micheal Madhusudan Academy at Kolkata University, West Bengal</item>
+        <item>The Late Madan Mohan Verma Smriti Sammaan from the Journalist Association of Electronic and Print, Dehradun</item>
+        <item>National Health Care Promotion Award by Heart Care Foundation of India at New Delhi</item>
+        <item>Lifetime Achievement Award by ABP News at Mumbai</item>
+        <item>Lifetime Achievement Award by Rotary Club of Madras at Chennai</item>
+        <item>LEGENDE DE LA PLANETE Congres Fondateur Jeux Ecologiques at UNESCO, Paris</item>
+        <item>Lifetime Achievement Award by Vth World Aqua Congress 2011 at New Delhi</item>
+        <item>Bhagirath Alankaran by Ganga Seva Nidhi, Varanasi Uttar Pradesh</item>
+        <item>National Award for Innovations in the Services for the Urban Poor by The India Urban Space Foundation</item>
+        <item>Bihar Ratna Award at Patna</item>
+        <item>Sanitation Visionary Award by World Toilet Organisation at Singapore</item>
+        <item>FACE Award 2008 by FACE magazine, New Delhi</item>
+        <item>Sat Paul Mittal Award at Ludhiana</item>
+        <item>Vishwa Bhojpuri and Indian Diaspora Sammaan</item>
+        <item>2009 Stockholm Water Prize, Sweden</item>
+        <item>Inter-governmental Renewable Energy Organisation Award (IREO), USA at New York, USA</item>
+        <item>Hall of Fame Award by World Toilet Organisation at World Toilet Summit, Macau, China</item>
+        <item>Rashtriya Gaurav Award by Citizen Forum of Human Rights, New Delhi</item>
+        <item>National Energy Globe Award, by Energy Globe at Brussels, Belgium</item>
+        <item>Hindi Vachaspati Award by Rashtriya Hindi Parisad</item>
+        <item>Aryavart Shikhar Samman by The Indian Nation Publication</item>
+        <item>Bharat Gaurav Award by Citizen Forum of Human Rights, New Delhi</item>
+        <item>Lifetime Achievement Award for Leadership in the Social Sector by Dr. P. N. Singh Foundation</item>
+        <item>Maharana Uday Singh Award</item>
+        <item>One India One People Foundation Award</item>
+        <item>International Human Rights’ Award</item>
+        <item>Sakshi Bharat Award</item>
+        <item>AIWEFA Platinum Jubilee Award 2005</item>
+        <item>Good Corporate Citizen Award</item>
+        <item>Indira Gandhi Paryavaran Puraskar by Government of India</item>
+        <item>Scroll of Honour by UN-Habitat at Rio-de-Janeiro (Brazil)</item>
+        <item>Global 500 Roll of Honour Award by UNEP at Beirut (Lebanon)</item>
+        <item>Dubai International Award for ‘Best Practices for Improving the Living Environment’ by UNCHS at Dubai</item>
+        <item>Samaj Ratna Award at Lucknow</item>
+        <item>Distinguished Leadership Award</item>
+        <item>Michael Madhusudan Dutt Award</item>
+        <item>Babu Jagjivan Ram Award for Abolishing Scavenging</item>
+        <item>Global Urban Best Practice by United Nations Centre for Human Settlements (UNCHS) at Istanbul</item>
+        <item>Limca Book of Records’ ‘Man of the Year Award’</item>
+        <item>Vikas Ratna Award</item>
+        <item>Manav Sewa Puraskar</item>
+        <item>NRI Gold Award</item>
+        <item>Indira Gandhi Priyadarshini Award</item>
+        <item>Ratna Shiromani Award by India International Society for Unity</item>
+        <item>Rotary International Spectra-93, Par Excellence Award for Protection of Environment</item>
+        <item>Anne Mukhopadhya Award for Social Work</item>
+        <item>Shahid Bhup Singh Award for Social Work</item>
+        <item>Bombay Citizen’s Award</item>
+        <item>Dr. Pinnamaneni and Smt. Seethadevi Foundation Award</item>
+        <item>The International Saint Francis Prize for the Environment “Canticle of All Creatures” at Assisi, Italy</item>
+        <item>National Citizens’ Award</item>
+        <item>Padma Bhushan</item>
+        <item>Civic Betterment Award, Bombay</item>
+        <item>Builders’ Information Bureau Award</item>
+        <item>Prabandhak Mahan Muzzaffarpur</item>
+        <item>K.P. Goenka Memorial Award</item>
+    </string-array>
+
+    <!-- TODO: SUCCESS STORIES HEADINGS  -->
+    <string-array name="success_head">
+        <item>10 Inspiring things to know about Dr. Bindeshwar Pathak of Sulabh International</item>
+        <item>Liberation from open defecation</item>
+        <item>Elimintaed manual scavenging</item>
+        <item>rehabilitation program for out of work scavengers</item>
+        <item>Bio-gas plants</item>
+        <item>Public-toilet complexes</item>
+        <item>Work for the untouchables</item>
+        <item>Sanitation activism</item>
+        <item>Duckweed-Based wate water treatment</item>
+        <item>Composting</item>
+        <item>Going International</item>
+    </string-array>
+
+
+    <!-- TODO: SUCCESS STORIES DETAIL -->
+    <string-array name="success_stories">
+
+        <item>Dr. Bindeshwar Pathak, the social reformer and owner of Sulabh International organisation is the
+        man who has worked immensely towards liberation of scavenger castes by building maintenance-free toilets.
+        Hailing from an extremely modest background, he did not settle with jobs of a clerk,
+        school teacher and writer as he was destined to bring a social evolution in the country. It was during one of
+            his writing assignment that
+        he came across the evil practice of human scavenging and worked toward bringing reform in the section of society
+            dealing with the problem.</item>
+
+        <item>Dr. Pathak developed a low-cost, two-pit toilet technology that uses a litre of water which helped a huge
+            pop[ulation in rural
+        India builds toilets in their homes and thus liberated them from the trouble of going in open to defecate.</item>
+
+        <item>Dr. Pathak has provided cost-effective alternatives to manual scavenging which not only
+        is economically viable but has also rid the country from the practice of manual scavenging.</item>
+
+        <item>Those unemployed due to elimination of manual scavenging were trained on skills required for other
+        jobs by the organisation.</item>
+
+        <item>Dr. Pathal has contributed towards developing bio-gas plants generating gas
+        from human waste which can be used for heating, cooking and electricity.</item>
+
+        <item>Sulabh International has worked immensely towards construction of public toilet
+            complexes across south and central Asia for people with no toilets in their homes or those with no houses.
+        </item>
+
+        <item>
+            Dr. Pathak has worked towards providing stipend, food and healthcare facilities
+            to those considered untouchables and motivated them to liberate from the evil system. His efforts have let
+            the untouchables
+            mingle, dine and be treated at par with others.
+        </item>
+
+        <item> Some of the sanitation activism by Sulabh International include allocating of pittance for toilets,
+            helping secure bank
+             loans for building toilets, adopting the two-pit toilet system, construction
+            and maintenance of toilets and ensuring they are in working condition and training people about health benefits.
+        </item>
+
+        <item>The organisation Sulabh International has successfully demostrated treatment  of waste
+        water based on usage of duckweed in rural and urban areas with direct economic returns.</item>
+
+        <item>Sulabh International has developed technologies that help in composting in a lesser span of time
+            eliminating manual hamdling and also reducing health problems due to quick conversion human waste in compost</item>
+
+        <item>Dr. Pathak has been a part of various international summits and conferences and been
+        conferred upon several awards and honours. Sulabh International has also built Community Toilet Complexes
+            in Kabul, Afganistan.</item>
+    </string-array>
+
+    <!-- TODO: ALWAR PRINCESS NAMES -->
+    <string-array name="alwar_name">
+        <item>Lalta Nanda</item>
+        <item>Usha Chaumar</item>
+        <item>Sunita Nanda</item>
+        <item>Laxmi Nanda</item>
+        <item>Pushpa Devi</item>
+        <item>Guddi Topiya</item>
+    </string-array>
+
+    <!-- TODO: ALWAR PRINCESS THOUGHTS -->
+    <string-array name="alwar_thought">
+        <item>Nai Disha Restored Her Faith in God</item>
+        <item>Usha Wants to Dedicate Her Life to Scavengers</item>
+        <item>Dr. Pathak Gave Dignity and Respect, says Sunita</item>
+        <item>Dawn of Hope</item>
+        <item>Pushpa: A Transformation</item>
+        <item>Bidding Misery Goodbye</item>
+    </string-array>
+
+    <!-- TODO: ALWAR PRINCESS DETAILS -->
+
+    <string-array name="alwar_des">
+        <item>“I missed nothing, as I took it as my wont. All I missed was my dignity… wasted down the years.’’ This is Lalta of Alwar in Rajasthan, mother of three and a widow. Former scavenger, today a proud woman. “Today I feel like being a woman, a human, a mother. Yesterday I felt like the dirt I carried on my head.’’
+
+          In her new incarnation five years back, 32-year-old Lalta shed a 4000-year-old ‘burden’ nee ‘tradition’ and came home to become a ‘woman’ from a ‘bhangin’* (woman scavenger) – a heathen, an outcaste, an untouchable. Today soaring 20,000 feet in the sky on an Airbus, dining a la carte meal in a luxury seven-star hotel and shaking hands with H.R.H. the Prince of Orange of the Netherlands is passe for a woman who just five years back lived on crumbs thrown – from a distance – by the gentry whose excreta (nightsoil) she carried on her head,  day in and day out, 365 days.
+
+         Lalta is a scavenger, but today she isn’t. Today she is confident – after joining Nai Disha in 2003. Initiated into the scavenging profession after marriage at the tender age of 17, Lalta found the very idea repulsive but was helpless. Her mother-in-law told her it was ‘our fate’ and that a tradition being followed through ages could not be just wished away.
+
+          “I just wished I could undo years of injustice. After all, I was also a human being”, she said with moistened kohl-rimmed eyes and yet a splash of smile on her oval face. Being a human being, the idea of scavenging the shit of another human being was so abhorrent and repulsive but “then taking it as ‘my fate’ I gave in,” she said, adding, “I puked, I cried, I had fever and then gave in. After all, how could I leave a tradition of more than 4,000 years thrust upon us?”
+
+             Hailing from an okay family where she did not have to scavenge for making a living, Lalta found the work even more difficult to perform at her sasural (in-laws’ place), but “I started doing it after being prodded by my mother-in-law because how else could we make our ends meet. We were too poor and I had no skills, no education, no other way out…’’</item>
+
+
+        <item>Very often we form opinions from theoretical positions and deep ingrained prejudices that obstruct our vision. It happened when I met this woman recently at a place where we would not normally expect rubbing shoulders with the so-called “Wretched of the Earth.” It was on the eve of International Women’s Day programme organized by Sulabh International at Hotel Intercontinental in New Delhi where I caught a glimpse of reality of today’s India.
+
+        A group of 28 women from Rajasthan’s Alwar district was interacting with ivory tower intellectuals and media persons, answering questions on a variety of subjects and trying to satisfy their curiosity about changing socio-economic scene in the vast rural hinterland of a tradition-bound social order that still retained its feudal character. The women, unschooled in urban manners and once totally illiterate, were taking questions with a felicity and ease that was refreshing. It seemed difficult to believe that till the other day these women were manual scavengers, the lowest rung of the social ladder. Today they were elegantly draped in blue sarees. The group displayed a sense of comfort and confidence that can come only from a degree of recognition and achievements.</item>
+
+        <item>That her life was going to be nothing but an ordeal of suffering and hatred without any hope of better tomorrow was becoming clear to Sunita Nanda as she settled down at Alwar as a teenaged bride. Within three to four days of her marriage, she was made to resume scavenging, the odious profession of carrying nightsoil as head-load, in which she had been engaged since childhood in her parents’ home. Giving birth to three children made her look weak and horrid, vomiting and feeling giddy. She was miserable. “There is no god for the poor” were the thoughts often flitting through her mind in the squalid poky hovel, which was her dwelling and where there was nothing to cheer.
+
+         But her life took a turn five years ago with the most unexpected visit of a Samaritan to the colony where she lived. He was not distributing bounty but only telling a group of women: “If you stop scavenging I can guide you to an alternative profession, which would help you earn more, give you respect and dignity.” Sunita was also there. As he walked away, Sunita asked her friends: “Was he trying to lead us up the garden path?” Despite misgivings Sunita and other women resolved to turn up at an appointed place to see what he had meant. But they were surprised to discover that the good Samaritan, who was none other than the Founder of Sulabh International, Dr. Bindeshwar Pathak, really wanted their deliverance from the ugly and nauseating profession of scavenging. He asked them to join Nai Disha, a welfare centre run for the untouchable women by Sulabh. Thus they stopped scavenging, learnt new crafts and started living a better life.
+
+          The same Sunita Nanda, who is 32 now, sitting on a chair in the Sulabh complex at Palam Dabri Road in New Delhi with smooth slicked hair, a dab of lipstick on her lips and shining teeth, hardly looked like a scavenger. Emphatically she said:
+
+         “Dr. Bindeshwar Pathak is a god incarnate who has changed my life from a miserable scavenger to a woman commanding respect now. I had seen Prime Ministers, Chief Ministers and many VIPs often expressing concern about the untouchables. But nobody did anything. Whereas Sir (Dr. Pathak) has not only given me status and respect, but also completely changed my life. So much so that I have started even looking with nafrat (hatred) at all those who are engaged in cleaning toilets.”
+
+         Sunita’s early life was typical of thousands of women in India born and brought up as untouchables, who begin childhood helping their mothers in carrying cans loaded with nightsoil and see no sign of respite or relief even when they are married and when they secretly pray to gods. “I was a scavenger in my parent’s house and had no choice even after marriage. Like my mother-in-law and husband, I was driven to the same profession even before my first child was born”.</item>
+
+        <item>Standing in the prayer hall with other women, she sings “Hum Honge Kamyab… (we shall overcome…)” with great gusto and fervour, for Laxmi Nanda knows she is one of those rare persons whose courageous life truly symbolises one of India’s favourite social harmony songs. This 27-year-old woman from Alwar district in Rajasthan has a petite frame but with her indomitable will she has been able to transform her life in a way that is no less than a dream.
+
+          With her poise and strong communication and presentation skills, it is rather hard to imagine that till about five years ago, Laxmi was a scavenger in her locality who manually collected human excreta from homes and carried it on her head to dump it in a nearby drain.
+
+           For Laxmi and around 50 other women like her at Alwar who had been working as scavengers, life was a humiliating drudgery. “I often thought, is this what I am destined to do all my life? Will there be no end to my misery? We were disgusted with what we were forced to do because of our poverty. There were kuchha toilets in our locality. We had to go from one house to another and collect excreta. We would put mud on it, gather it and put it in a vessel that we carried on our heads. During rains, some of that muck would fall on our heads. After dumping it in a nearby drain, we would wash our vessels. It was a filthy job,” she recounts her past life with utter disgust.
+
+          That was when Sulabh International Founder, Dr. Bindeshwar Pathak, came as a godsend messenger to her. “Sir (that is how they address Dr. Pathak) met us and asked us if we would give up doing this sick work in case he gave us alternative means of employment. We were more than happy and jumped at the offer,” Laxmi reminisces with a smile. That was over five years ago and since then there has been no looking back for her. With the opening of Nai Disha by Sulabh International Social Service Organisation at Alwar, Laxmi and many rural women scavengers like her began a new phase of their lives.
+
+          At the centre from 9 a.m. to 4 p.m. they are taught how to read and write Hindi and English, do simple arithmetic and learn tables. They are engaged in productive work like making papads, pickles, vermicelli, stitching and embroidery. All the products made by these women at the centre are supplied to residential colonies and hotels in other districts of Rajasthan and Delhi. “When we worked as scavengers, all that we got was Rs. 300-400 per month. But at the centre, we get Rs. 2,000 in a month. Most importantly, it has given us a lot of respect and dignity in the eyes of others and boosted our self-esteem,” says Laxmi with obvious pride.
+
+          “We look forward to going to centre every day, even if it means walking daily for over 30 minutes to reach our destination. I learnt stitching at the centre. We get orders from different boutiques. At home, I stitch dresses for my mother-in-law and my daughters and manage to save some money,” she added. For someone who never attended school in her childhood, Laxmi can now read and write and sign her name both in Hindi and English. Her association with Sulabh International has been able to unearth another talent in her: poetry.
+
+          Laxmi has penned down beautiful lines in the Hindi language, on her life’s experiences so far with some assistance from her very supportive husband, Kundan.
+
+          Titled ‘Patan se Uthaan ki Taraf’, the poem traces her journey from the time she worked as a scavenger since she was 19 years old to her dignified existence today when life is full of hope and sanguinity for her. Today, Laxmi helps her husband in supporting her family and is keen that her three children – Priya, Vasu and Sneha – receive the best possible education.
+        </item>
+
+
+        <item>Pushpa Devi had been working as a scavenger for six years at Alwar. “I used to clean human excreta manually at three houses, getting Rs. 600/- per month, equal to fifteen dollars. Sometimes, pieces of bread were thrown at me from distance after cleaning latrines and I was asked to go away immediately.  My husband, Sunil, was a sweeper. He was drowned in a well. We couldn’t maintain our family by our meager earning. I lived at an untouchables’ colony.” Here is her full story in her own words.
+
+         “One day Dr. Bindeshwar Pathak, Founder of Sulabh International, visited our colony and asked us to change our profession, for he was willing to provide an alternate source of earning livelihood. Consequently, I visited Nai Disha, a rehabilitation centre run by Sulabh, and was trained there for various jobs for about 2 years. I got a stipend of Rs. 2000/- per month and learnt sewing, embroidery, how to make pickles, papads and other eatables which were sold and were in great demand in markets. Even caste Hindus bought them. Nobody ever raised any objection, although they were prepared by former scavengers. This had really changed the mind-set of the people about us. Now, we were not hated by caste Hindus, who used to treat us shabbily before.
+
+         “When we used to draw water from their wells, our pots were broken and we were pushed down and beaten. We used to clean their latrines and made their lives neat and clean but they hated us and treated us worse than animals. I used to live such a hellish life while doing a sub-human job.
+
+          “One day I was wondering, while carrying a container of head-load of human excreta whether some day a messiah would come to change the course of my life.  And lo, here he was in bandi and kurta, visibly moved by deep compassion, standing before me in the untouchables’ colony at Alwar. The rest is the end of my saga of suffering. God, bless this messiah!”.
+        </item>
+
+
+        <item>“I used to live at Sawai Madhopur (Rajasthan) which was my paternal home. Our major source of income was groundnut farming. In winters we sold the groundnuts and my mother used to run the house with whatever money we got in return. When I was 14 years old, I got married and came to Alwar (Rajasthan),” says Guddi.
+
+               “Marriage brought me in a different world altogether. I got to know of things about which we had been kept in the dark earlier. I found out that my husband was dependent on his mother financially. After some time, I realized that my husband, mother-in-law and sister-in-law, all worked as scavengers. They went to people’s houses, disposed of their refuse and got money in return. They would do this from 8 in the morning to 12 noon every day.
+
+               “It was deeply shocking for me. When my sister-in-law asked me to work with them as a scavenger, I refused. I told her that I had never done such work earlier and would not do it now. I requested her not to force me to do that work. After a couple of days my sister-in-law started scheming with her mother and asked her not to give me any food till the time I agreed to work with them. My mother-in-law told me that they had been doing this work for the past seven generations and I could not refuse to do it.
+        </item>
+    </string-array>
+
+    <!-- TODO: CLEANING OF GHATS HEADINGS -->
+    <string-array name="cleaning_head">
+        <item>Photo essay | Bringing life back to the ‘ghats’</item>
+        <item>A MOMENT OF FAITH AND INCLUSION on the ghats of Kshipra, Ujjain-12 May, 2016</item>
+        <item>Project to beautify ghats, clean Ganga soon: Union Minister</item>
+        <item>Beautification plan for Varanasi ghats on the anvil</item>
+        <item>US-based think tank lauds ‘Clean India Campaign’ अमरीकी संस्था ने प्रधानमंत्री मोदी के ‘स्वच्छ भारत अभियान’ को सराहा</item>
+        <item>Safaigiri Summit and Awards 2015: A return to glory</item>
+        <item>One More Feather in the Crown: “Safaigiri” Award to Sulabh for Sparkingly Beautiful Assi Ghat-2 October, 2015</item>
+        <item>Dr Mahesh Sharma launches special cleaning campaign at Assi Ghat in Varanasi</item>
+        <item>Airports Authority of India to invest Rs5 crore in Modi’s Kashi for sanitation</item>
+        <item>Beautified, Modified, Renovated Assi Ghat</item>
+        <item>Varanasi widows break tradition, play Holi on the banks of Ganga</item>
+        <item>NGO to clean Varanasi ghat</item>
+        <item>This Diwali, Vrindavan widows to take pledge to clean Yamuna</item>
+
+
+    </string-array>
+
+    <!-- TODO: CLEANING OF GHATS INFO -->
+    <string-array name="cleaning_info">
+        <item>Posted 3:20 pm by Sulabh Admin and filed under In the Press, India, Photos, Press Releases, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted 5:49 pm by Sulabh Admin and filed under Videos.</item>
+        <item>Posted 5:33 pm by Nisha Swami and filed under Articles, In the Press, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted 5:29 pm by Nisha Swami and filed under Articles, In the Press, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted 2:27 pm by Nisha Swami and filed under Articles, In the Press, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted 5:21 pm by Anita Agarwal and filed under Articles, In the Press, India, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted 4:23 pm by Nisha Swami and filed under Articles, In the Press, India, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted 4:27 pm by Nisha Swami and filed under Articles, Delhi, In the Press, India, Sulabh News.</item>
+        <item>Posted 3:59 pm by Nisha Swami and filed under Articles, In the Press, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted 2:37 pm by Nisha Swami and filed under Articles, In the Press, Sulabh News, Uttar Pradesh.</item>
+        <item>Posted 11:44 am by sulabh international and filed under Sulabh News, Uttar Pradesh, Videos.</item>
+        <item>Posted 4:54 pm by sulabh international and filed under Articles, In the Press, Uttar Pradesh.</item>
+        <item>Posted 11:32 am by sulabh international and filed under Articles, In the Press, Uttar Pradesh.</item>
+    </string-array>
+
+    <!-- TODO: CLEANING OF GHATS DETAILS -->
+    <string-array name="cleaning_details">
+        <item>Over the past two years, Varanasi’s ‘ghats’ have become a little cleaner, but there is still a long way to go.
+            A look at a key feature of Prime Minister Narendra Modi’s constituency.
+        Ask anyone who is a frequent visitor to Varanasi and chances are that they will have a favourite ghat where they
+            like to sit and watch the world go by. There is the main Dashashwamedh Ghat, where the spectacular evening aarti,
+            often considered to be one of the most iconic images of Varanasi, is held. There is the Darbhanga Ghat, with its
+            magnificent palace made of sandstone, boasting of porches and what some believe are Greek architecture-inspired
+            pillars. And then, of course, there are the cremation ghats, Harishchandra and Manikarnika.
+            In the evening, the waters in front of the Manikarnika Ghat are filled with boats full of Western tourists,
+            watching the multiple pyres burn. Death does become a spectacle.
+            But let us not dwell on the history of these ghats; rather, let’s talk about their future, which has been
+            threatened by neglect.
+            Even now, most of the ghats are little more than littering grounds and, in some cases, even open toilets.
+            The biggest problem in Varanasi is that even if the ghats are cleaned, disposal of garbage remains a herculean
+            task. Sewage treatment plants have long been identified as one of the most important ways of ensuring that the
+            Ganga becomes cleaner, but they remain a distant dream. The water of the river resembles sludge; plastic water
+            bottles and empty chips packets float on the surface. Sometimes, you come across a human corpse. Efforts to
+            promote the use of electric crematoriums rather than the traditional wood pyre have not yielded results yet.
+            In the run-up to the 2014 election, Prime Minister Narendra Modi had promised to clean the city and the ghats.
+            The reality, however, is that Varanasi remains filthy, though things are moving, slowly, with some public-private
+            partnerships, some volunteers and not-for-profits taking up the cause.
+            Assi Ghat, the southernmost ghat in Varanasi and also the biggest, does seem to have benefited. A stage has been
+            erected, benches and urinals have been set up, and a few Sulabh employees, mouths and faces covered, can be seen
+            sweeping it regularly. Sulabh International, a sanitation-oriented not-for-profit, has been present in Varanasi
+            for some time. “We were involved with the cleaning of sixghats, including Dashashwamedh, when, in 2014, the
+            district magistrate approached us to take over the cleaning of Assi Ghat,” recalls B.N. Chaturvedi, adviser,
+            Sulabh International. “Fifty-four steps were completely buried under silt. We spent over Rs.70 lakh just to
+            clean those. In fact, when the Prime Minister visited the ghat later on, he also praised the work.”
+            According to him, 18 Sulabh employees work every day to keep the ghat clean; he claims that it is the cleanest
+            ghat in Varanasi today.
+            But why were the ghats so dirty in the first place? Don’t people have a sense of pride in what gives their city
+            its identity? Chaturvedi laughs and admits he does not have an answer, but adds that the attitude of people is
+            changing, slowly. “Right now people might not be actively involved in the cleaning but they don’t dirty it
+            either,” he adds.
+
+            There is a community effort that is being led by youngsters, chief amongst them Temsutula Imsong, a 32-year-old
+            social worker from Nagaland who moved to Varanasi in 2013. She started with the cleaning of the Prabhu Ghat in
+            2015 when a boat ride down the Ganga took her past it and she was assailed by the stench emanating from it.
+            Turns out, theghat was little more than an open toilet, completely covered with human waste and silt. She,
+            along with her friends and other volunteers, cleaned up the ghat over three days in March 2015. Today, Imsong
+            runs Mission Parijat, a programme in Varanasi under which she and her team have undertaken the clean-up of two
+            reservoirs—Sonebhadra Kund and Gauri Kund—apart from the Babua Pandey Ghat.
+            Mission Parijat also hosts weekly debates on the cleanliness of ghats and Imsong says the reaction of people,
+            both locals and tourists, always surprises them. “People join in voluntarily when they see us cleaning.” Every
+            week, a team of students from the Benaras Hindu University (BHU) also pitches in.
+            Some of the impact is visible. Whether it’s people just sitting, playing music or taking part in cricket
+            matches—one can see the beginnings of a community life springing up again on the ghats.</item>
+        <item>Kumbh is the symbol of the Holy Bath of Faith, as Hindus believe that a dip in the holy waters cleanses
+            them of all their sins and paves the way to salvation. On this pious occasion, a group of about hundred women
+            from lowest ranks of society—the dalits who were earlier
+            known as “untouchable scavengers” and the widows from Vrindavan—took holy bath at the sacred ghat of Kshipra.
+            The dalit women came out of the holy water proclaiming that their low status as “untouchable” has been dissolved
+            in the holy Kshipra river.
+            Amidst the chanting of Vedic mantras and blowing of conch shells, Dr. Bindeshwar Pathak and the volunteers from
+            the Sulabh Family, took the holy dip. The celebrations took place at the Ram ghat of the river Kshipra on the
+            occasion of Simhasth Kumbh Mahaparv, Ujjain 2016.</item>
+        <item>With an aim to fulfil the wishes of Prime Minister Narendra Modi, Union Minister Mahesh Sharma today announced
+            introduction of a project for restoration and beautification of ghats and cleaning of the Ganga river here.
+            Launching a special ‘cleaning campaign’ at the recently renovated Assi Ghat here, the Union Minister for Tourism
+            and Culture said, the ministry is set to prepare a comprehensive plan for the all round development and
+            beautification of the ghats and cleaning of Ganga river.
+            A plan is being drafted to clean garbage by using boats as its disposal was a major problem in the historic city
+            of Varanasi due to its narrow lanes. Now boats would ferry garbage and dump it at certain specific points, he said.
+            ‘Light and Sound shows’ would soon be introduced at Assi Ghat, the minister said while releasing a song and a quawali
+            based on the theme of Ganga and Varanasi written by social worker and Sulabh International founder Bindeshwar Pathak.
+            He also inaugurated a Sulabh public toilet on the occasion. Prime Minister Narendra Modi had launched a cleaning
+            drive at Assi Ghat and Sulabh International has excavated and cleaned it.
+            Lauding the efforts of Sulabh International, Sharma called upon other organisations to come forward to adopt and
+            clean other ghats. Sulabh International, which runs public toilets for decades and has been maintaining
+            some of the ghats in Varanasi,
+            recently only cleaned Assi Ghat, but also excavated at least 25 steps which lay buried under mud for several decades.
+            The cleaning of the famous Kashi Viswanath Temple was also being done by this organisation. Also the widows at
+            various ashrams in Varanasi are being looked after by Sulabh International, which is taking care of their health
+            and day-to-day requirements.</item>
+        <item>” Sharma, while lauding the effort of Sulabh, called upon other organisations to come forward to adopt and
+            clean other ghats (banks). “
+
+– A comprehensive plan to beautify the banks of the Ganges here was unveiled by the union tourism minister on Saturday.
+
+Launching a special cleaning campaign at the recently renovated historic Assi Ghat, Union Minister for Tourism and Culture
+            Mahesh Sharma announced a special project for restoration and beautification of the ghats.
+
+Sound and light shows would be introduced soon at Assi Ghat, Sharma said.
+
+He also inaugurated a Sulabh public toilet on the occasion.
+
+Sharma, while lauding the effort of Sulabh, called upon other organisations to come forward to adopt and clean other ghats
+            (banks).
+
+He said a plan is being readied to clean up the filth by using boats as garbage disposal vehicles. Garbage accumulation is
+            a major problem in the historic city due to narrow lanes. Now, boats will be used to take the garbage to the
+            dumping points.</item>
+        <item>New York-based global organisation to honour Sulabh International Founder Dr. Bindeshwar Pathak for his role in
+        India’s sanitation initiatives
+
+A team of US-based eminent social activists have appreciated Prime Minister Narendra Modi for ongoing
+        “Clean India Campaign” or “Swachh Bharat Abhiyaan”, terming it an important step in the history of India.
+        New York Global Leaders Dialogue (NYGLD) Chairman Phil Scanlan while lauding Mr. Modi for his initiative,
+        has said he very impressed with the action of the Prime Minister who has not only succeeded in motivating
+        people towards cleanliness but also shown his own commitment towards this important initiative.
+
+
+Mr.  Scanlan, who is the chairman of New York-based NYGLD a platform that brings leaders from all continents to
+        address global challenges, foster international dialogue and nurture cohorts of younger leaders, said
+        Mr. Modi’s commitment towards eradicating poverty, promoting hygiene and cleanliness was being talked
+        about across the globe. During his recent visit to the US, the Prime Minister’s proactive participation
+        in all such social programmes was talked about prominently.
+
+Mr. Scanlan, who was in India with a NYGLD delegation that included NRIs Pam Kawatra from US and Ketan Patel from
+        UK also met Dalit women who were formerly manual scavengers and liberated by low-cost sanitation NGO Sulabh
+        International, founded by eminent sociologist and social activist Dr. Bindeshwar Pathak.
+
+
+“I have been moved by the way Dr. Pathak and Sulabh International is changing the lives of millions of Indians.
+        It’s highly commendable that his work is not only stopping open defecation in India but is also restoring
+        the dignity of the marginalized and mainstreaming them in society,” Mr. Scanlan said.  He shared
+        Dr. Pathak’s belief that providing toilets can be a tool for social change and that innovation is
+        integral to improving the lives of those on the margins of society. He also appreciated the efforts of
+        Sulabh for communications and advocacy practices to promote use of toilets and improved hygiene behaviors
+        across the country.
+
+
+According to Pam Kwatra, who along with Mr. Scanlan also visited Varanasi and saw cleaning of ‘ghats’ being
+        done by Sulabh, said Dr. Pathak had been shortlisted for this year’s International award by NYGLD for
+        his immense social contributions towards India. The results are likely to be announced by month-end.
+        “Dr. Pathak’s belief that providing toilets can be a tool for social change and that innovation is
+        integral to improving the lives of those on the margins of society has impressed us a lot,” said
+        Ms. Kwatra. Talking about the Prime Minister’s “Clean India Initiative”, Dr. Pathak said his NGO
+        was committed to provide all help in making India a clean nation where all homes will have toilets.
+        Sulabh is a social and behavior change coalition formed to promote the adoption of improved hygiene
+        practices across the country. Sulabh has constructed nearly 13-lakh household toilets and 5.4-crore
+        government toilets based on an innovative toilet design. Nearly 1.5-crore people use these toilets
+        daily. Apart from construction of toilets, the self-funded NGO is also leading a movement to discourage
+        manual scavenging.</item>
+        <item>“Ganga is like a mother to us. By cleaning Assi Ghat, we have paid tribute to our mother,”says
+       BN Chaturvedi, National adviser, Sulabh International, Varanasi.
+   Less than a year ago, the Assi Ghat on the banks of the Ganga was one of the dirtiest public spaces
+       in Varanasi. Mounds of mud covered major portions of this 400-metre stretch, and its stairs leading
+       to the water were covered with undulated hillocks made of silt and refuse. Instead of being one of
+       the city’s most glorious mythological embankments, it resembled a garbage dump. Incredible as it
+       may sound, a rejuvenated ghat today preens proudly, standing out among all the others in this holy city.
+       This March 17, the historical Budhwa Mangal programme was organised on the Assi Ghat instead of the
+       central Dashashwamedh Ghat.
+
+This dramatic transformation of the Assi Ghat into Varanasi’s new cultural hub was brought about in just three
+       months through a massive cleanliness drive carried out by Sulabh International under the watchful eye of
+       the enterprise’s national adviser B.N. Chaturvedi. The process started in October 2014, when Varanasi’s
+       then district magistrate, Pranjal Yadav, now posted in the Chief Minister’s Office in Lucknow, allotted
+       Assi Ghat to Sulabh International, which had already started work on six other ghats in the city. The
+       organisation was asked to give Assi priority, and restore it to its former glory, to show what it could do.
+
+It wasn’t going to be an easy task. Years of accumulation of garbage and mud had consumed large sections of the
+       embankment. Sulabh employed more than a hundred labourers, who worked round-the-clock to dig out the
+       original ghat from under the debris using spades and shovels. A few months later, the original ghat
+       started to emerge, and, almost like an archaeological digging, forms and shapes started to become
+       visible. The first stairs of the ghats appeared at the turn of the year, and by February 15, more than
+       40 were glistening in the sunlight. The drive cost Rs 70 lakh, a small fraction compared to the
+       money spent on various Ganga cleaning projects over the decades. Six months on, the lure of a clean
+       ghat seems to be winning.
+
+The way forward
+The next step for Sulabh is to remove silt from lower parts of the ghat with the help of water pumps
+       to bring out 10 more stairs that lead into the river. Once this is achieved, it will focus on making
+       Assi Ghat green, lining it with more than 500 plants.
+
+The idea, say the workers, is to make it a model ghat and use it as a shining example of what needs to be done
+       across the city. After all, if Assi Ghat can be restored, so can any other.</item>
+ <item>Sulabh International received the “SAFAIGIRI” Award from Hon’ble Prime Minister Shri Narendra Modiji for
+     the Sparkingly Beautiful Assi Ghat in an Award Ceremony today organized by India Today Group at Taj Palace, New Delhi.
+
+Prime Minister Narendra Modi felicitates the Safaigiri Award winners at the event.
+
+Ms. Usha Chaumar, the Honorary President of Sulabh International received the Award on behalf of Sulabh International.
+     Ms. Usha Chaumar was engaged in manual scavenging at Alwar in Rajasthan. Dr. Bindeshwar Pathak took a great step
+     in liberating women like her from the demeaning task of scavenging and helped them out to lead a life that is full of dignity.
+
+The India Today Group launched this initiative to clean India as a commemoration to Mahatma Gandhi on his death anniversary.
+
+Dr. Bindeshwar Pathak, Founder, Sulabh Sanitation and Social Reform Movement has been instrumental for the restoration and
+     beautification of ghats and cleaning of the Ganga river. Among the 84 Ghats on the banks of the Ganga, the Assi Ghat
+     has been very dirty with accumulation of a lot of garbage and dirt. The stairs at Assi Ghat of the holy city Varanasi
+     were covered with dirty mud, common visitors and pilgrims could not use the Ghat. Hon’ble Prime Minister Mr. Narendra
+     Modi started a cleaning campaign digging the dust himself with a spade on November 8, 2014. Sulabh International
+     Social Service Organisation thereafter cleaned all the 52 stairs thoroughly and the Ghat was opened for all on
+     February 22, 2015.
+
+The Assi Ghat has now been transformed into a beautiful place where thousands of people enjoy taking holy dip and
+     participating in the evening Aarti that takes place there at 5:00 a.m. along with Yoga Camp and Hawan. Several
+     cultural programmes are held there in the evenings.
+
+The ghat is now the venue of a unique cultural and spiritual event — Subah-e-Banaras — that draws large numbers of
+     visitors every morning. The Ghat has became a visiting place for the tourists as well as for shooting of films.
+     Deluxe Modern Sulabh Public Toilets have been built there. Now Assi Ghat has became a holy place that it had been
+     in the past as well as a tourist place of interest.
+
+Nominated by Prime Minister Narendra Modi for the Swachh Bharat Abhiyan, the India Today Group launched the Safaigiri
+     Summit and Awards 2015, which has identified champions, whether individuals or institutions, in 13 categories who
+     were awarded for their inspiring work. A jury of eminent citizens selected the champions.</item>
+        <item>The Union Minister of State for Culture (Independent Charge) and Tourism (Independent Charge) and Civil
+            Aviation, Dr. Mahesh Sharma today launched a special cleaning campaign at the recently renovated historic
+            Assi Ghat in Varanasi. Launching a cleaning drive at the excavated and restored historic Assi Ghat, the Union
+            Minister inaugurated a world class Sulabh public toilet on the occasion. Dr. Mahesh Sharma while lauding
+            the effort of Sulabh called upon other organizations to come forward to adopt and clean other ghats. He said
+            a plan is being drafted to clean garbage by using boats as garbage disposal is a major problem in the historic
+            city due to narrow lanes. Now boats will ferry garbage to dump at certain points.
+
+Dr Mahesh Sharma said that a comprehensive plan for the all round development and beautification of the Ghats of Varanasi
+            and cleaning of River Ganga is underway to fulfill the wishes of Prime Minister, Shri Narendra Modi.
+            He announced introduction of a special project for restoration and beautification of the Ghats.
+            the Minister said a plan has already been finalized to hold light and sound shows at Assi Ghat soon.
+
+</item>
+        <item>VARANASI: The Airports Authority of India will spend a fund of Rs5 crore for sanitation and cleanliness
+            in the temple town Varanasi, the parliamentary constituency of Prime Minister Narendra Modi.
+“For the sustainable cleanliness of the city the Airports Authority of India has come forward to make the holy city
+            clean and beautiful,” said the union minister of state (independent charge) for tourism, culture and civil
+            aviation Dr Mahesh Sharma.
+Sharma was here on Saturday to launch the second phase of cleanliness drive \‘Divya Kash\’ in the city by involving
+            students, NGOs, corporates and local citizens. He inaugurated the renovated toilet complex constructed
+            by the Sulabh International Social Service Organisation at Ghat, the same place where PM had launched
+            Swachha Bharat campaign in October last year. He admitted  that maintaining cleanliness in cities
+            like Varanasi is a great challenge. Insanitation adversely affects the tourist arrivals, he added.
+“We are roping in students, NGOs, corporate houses to keep the city neat and tidy. The investment by the AAI is a
+            step forwards in the same direction, and many corporate houses have shown their interest to join the
+            mission under their corporate social responsibility programme” said the minister adding that suggestions
+            and proposals are being sought from them in this regard. “The AAI will invest the amount in procuring
+            equipment for cleanliness,” said the AAI chairman RK Srivastava, who accompanied the minister. He said
+            that the AAI will work in collaboration with the municipal corporation to meet the challenge. The AAI
+            will maintain the sanitation equipment for next two years, he added.
+Under \‘Divya Kashi\’ the projects like laser shows at the majestic ghat and Sarnath will be started soon to attract
+            more tourists and elongate their stay in the city, said the minister adding that the entire stretch of
+            ghat will be cleaned on sustainable way along with the provision of toilets. There is a proposal to clean
+            garbage by using boats as garbage disposal is a major problem in the historic city due to narrow lanes.
+            The boats will ferry garbage to dump at certain points, he added. “A special meeting of several ministries
+            under the leadership or union urban development minister M Venkaiah Naidu will be held in New Delhi on
+            September 10 to discuss the issues of Kashi, he said.
+After inaugurating the modern Sulabh toilet complex, Sharma released musical CDs based on Ganga and Varanasi on the
+            occasion. Noted social worker and founder of Sulabh International Dr Bindeshwar Pathak accompanied the
+            minister. He also saw the Sulabh Rath launched for creating awareness among the masses about sanitation.
+            Sulabh has already been runs public toilets for decades and maintaining some of the Ghats. Recently it
+            cleaned Assi Ghat and excavated about 25 steps which were under mud for several decades. The cleaning
+            of the famous Kashi Viswanath Temple is being done by this organisation.
+            Later Sharma went to Lanka area where he took part in cleanliness drive by students near the main gate
+            of Banaras Hindu University (BHU). From Lanka he went to the parliamentary office of the PM in Ravindrapuri
+            colony to hear public grievances. He also visited the Central Library of BHU and released the digital version
+            of rare manuscripts.</item>
+<item>A Beautified, Modified, Renovated Assi Ghat, on the bank of river Ganga in Varanasi, witnessed Holi Celebrations
+    when the hundreds of widows of Vrindavan sprinkled gulal, flowers and rose petals on one another to play Holi, the
+    festival of colours, heralding a season of joy and gaiety.
+The celebrations, mooted by Sulabh founder Dr Bindeshwar Pathak, breaking the shackles of tradition, proved to be an
+    unprecedented step towards ending social prejudice against the widows as age-old social tradition bars them from
+    playing with colours.
+It was at this Ghat that revered saint Tulsidas left for his heavenly abode. The Ghat has been cleaned and beautified now,
+    complete with benches and boats for the devotees.
+When Prime Minister Narendra Modi visited the ghats to inquire about the ongoing cleaning operation on December 25, 2014,
+    he expressed great satisfaction over the restoration and cleaning of the ancient Assi Ghat in Varanasi. Lauding the
+    role of Sulabh International Founder Bindeshwar Pathak and his NGO Sulabh International for having renovated and
+    cleaned the century old Assi ghat whose at least 25 steps were covered with silt and mud for several decades,
+    Mr Modi said ghats were unique to Kashi\'s culture and history and the government will clean and beautify all of them.
+</item>
+        <item>Varanasi: It turned out to be a different and memorable on Friday for hundreds of widows in this temple
+            town as their white attire was smeared in different hues when they, for the first time,
+            played holi on the banks of the holy Ganga river.
+
+Breaking a centuries-old tradition that prohibited Hindu widows from any and everything that had to do
+            with colour, hundreds of widows from five major shelter homes (ashrams) – the Nepali ashram,
+            Birla widow home, Durga Kund ashram and from two ashrams in Sarnath, enjoyed the festival of
+            colours, the organizers – Sulabh International, called \'Vasantotsava\'.
+
+Ageing women helped by young widows let their hair down and to the beat of the dholak and the majeera,
+            danced and threw marigold petals on each other as some overzealous ones smeared each other
+            with gulal (dry colour). Bindeshwari Pathak, founder of the sanitation NGO also played Holi
+            with the widows and billed the event as "one of the happiest days of my life."
+
+"Being part of and witnessing the breaking of the centuries-old tradition where merry making was out of
+            bounds for the widows was a very satisfying and heartening experience," Pathak told IANS amidst
+            the riot of colours at the recently excavated Assi Ghat.
+
+The unique celebration was organised for the first time in Varanasi by the Sulabh International which takes
+            care of thousands of widows in Varanasi, Vrindavan and Uttrakhand. Sulabh had organised Holi for
+            the widows of Vrindavan two years ago which was seen as a path-breaking initiative to break the
+            centuries-old barrier.
+
+To mark the cleanness and restoration of Assi Ghat, Pathak also formally inaugurated boating operations from
+            the Assi Ghat by welcoming widows in the presence of saints and Sanskrit scholars. During Prime
+            Minister Narendra Modi\'s visit to his parliamentary constituency a few weeks back, Pathak had
+            promised him that before Holi, the ghats would be made operational so much so that boating would be possible.
+
+"We are happy that the Assi Ghat has been restored to its ancient glory and we have been able to keep our
+            promise to Prime Minister Modi," Pathak added.</item>
+        <item>Prime Minister Narendra Modi has been promised by an NGO that it would restore the famous Assi Ghat
+            in Varanasi to its ancient form.Sulabh International, active in the field of sanitation, promised to bring the ghat to its ancient form.The NGO’s founder-director Bindeshwar Pathak met Modi during his visit to the banks of the Ganga in Varanasi on Thursday.Modi expressed satisfaction over the cleaning of Assi Ghat, whose at least 25 steps has been covered with silt and mud for
+            several decades. The NGO Sulabh has adopted five other ghats in Varanasi for daily cleaning and maintenance.On his previous visit to his Lok Sabha constituency last month, Modi had wielded a spade at the Assi Ghat to enthuse citizens
+            to do their bit to give a facelift to the decrepit riverfront.He also got an assurance from social organisations, including Sulabh International, that the muddy ghat will be cleaned
+            within months.The NGO, which has also taken charge of cleaning the ancient Kashi Vishwanath temple premises, assured him that Sulabh will
+            make all efforts to beautify Varanasi, particularly its historic ghats. Sulabh has also started cleaning the
+            famous temple.
+Pathak said it will use its expertise in sanitation and waste management to ensure adequate cleanliness at the Kashi Vishwanath
+            temple.</item>
+        <item>Defying old-age curbs, they will burst crackers and be part of festivitiesIt will be a unique Diwali
+            for widows of Vrindavan. They have decided to celebrate the festival of lights by offering thousands of
+            “diyas” on the ghats of river Yamuna and take a pledge to clean the river.
+
+Around 1,000 widows who live in different ashrams in the holy city will burst crackers, sing ‘bhajans’ and be part of
+            Diwali celebrations, defying old-age traditions where widows are not allowed to be part of festivals.
+            Diya of hope
+
+The three-day celebrations will begin on Tuesday, courtesy sanitation NGO Sulabh International that gives monthly stipend
+            and takes care of their medical needs following request from a Supreme Court committee to ensure that these old
+            widows live a dignified life.
+
+“We want to ensure that these widows live a dignified life … Sulabh will continue with its nationwide campaign for the
+            welfare of widows. We will help them enjoy all major festivals,” said Sulabh founder Bindeshwar Pathak.
+
+Referring to his efforts to get Parliament pass a Bill to improve the condition of widows abandoned by families,
+            Dr. Pathak said he would write to all political parties on the issue.
+
+</item>
+    </string-array>
+    <string name="title_activity_map">Map</string>
+    <string name="upcoming">Upcoming Projects</string>
+
+
+</resources>

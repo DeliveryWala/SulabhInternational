@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <TextView
+        android:text="TextView"
+        android:textColor="@color/colorPrimaryText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="28dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="26dp"
+        android:id="@+id/awardno" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="160dp"
+        android:textColor="@color/colorPrimaryText"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/awardno"
+        android:layout_toRightOf="@+id/awardno"
+        android:layout_toEndOf="@+id/awardno"
+        android:layout_marginLeft="26dp"
+        android:layout_marginStart="16dp"
+        android:id="@+id/awardet" />
+
+    <TextView
+        android:textColor="@color/colorPrimaryText"
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/awardet"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="14dp"
+        android:layout_marginEnd="14dp"
+        android:id="@+id/awardate" />
+</RelativeLayout>
