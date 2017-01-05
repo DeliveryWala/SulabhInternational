@@ -2,7 +2,9 @@
     <string name="app_name">SulabhInternational</string>
 
     <!-- TODO: String... -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">1345871815464355</string>
+
+    <string name="fb_login_protocol_scheme">fb1345871815464355</string>
     <string name="drawer_close">Close</string>
     <string name="drawer_open">Open</string>
     <string name="founder">FOUNDER</string>
@@ -18,7 +20,6 @@
         and he is considered a pioneer for social reform.</string>
 
     <string name="news_and_events">News and Events</string>
-    <string name="contact_us">Contact Us</string>
     <string name="meet_sulabh">Meet Sulabh</string>
     <string name="detail">Sulabh International Social Service Organisation, a non-profit voluntary social
         organisation founded in 1970 by Dr. Bindeshwar Pathak, is dedicated to Gandhian ideology of
@@ -948,6 +949,7 @@ Referring to his efforts to get Parliament pass a Bill to improve the condition 
     </string-array>
     <string name="title_activity_map">Map</string>
     <string name="upcoming">Upcoming Projects</string>
+    <string name="complaint_location">Complaint Location</string>
 
 
 </resources>
